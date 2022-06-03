@@ -1,1 +1,1 @@
-Creating a simple contact manager app in React. Practice using hooks and 
+Creating a simple contact manager app in React. Practice using hooks, UUID, and Semantic UI.
